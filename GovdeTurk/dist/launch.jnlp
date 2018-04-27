@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jnlp codebase="file:/C:/Users/Lenovo/Documents/NetBeansProjects/GovdeTurk/dist/" href="launch.jnlp" spec="1.0+">
+    <information>
+        <title>GovdeTurk</title>
+        <vendor>Lenovo</vendor>
+        <homepage href=""/>
+        <description>GovdeTurk</description>
+        <description kind="short">GovdeTurk</description>
+    <offline-allowed/>
+</information>
+    <update check="background"/>
+    <security>
+<all-permissions/>
+</security>
+    <resources>
+        <j2se version="1.8+"/>
+        <jar href="GovdeTurk.jar" main="true"/>
+    </resources>
+    <applet-desc height="300" main-class="" name="GovdeTurk" width="300">
+    </applet-desc>
+</jnlp>
